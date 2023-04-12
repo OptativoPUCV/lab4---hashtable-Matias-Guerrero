@@ -64,3 +64,9 @@ mi., 12 de abr. de 2023 16:56:40:
  tests:  12|2
 total_score: 50/70
 4df9f0c
+mi., 12 de abr. de 2023 16:57:57: 
+ hashmap.c | 7 ++++++-
+ 1 file changed, 6 insertions(+), 1 deletion(-)
+ tests:  12|2
+total_score: 50/70
+abf7c59
