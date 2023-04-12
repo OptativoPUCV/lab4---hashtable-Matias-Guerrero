@@ -4,3 +4,9 @@ mi., 12 de abr. de 2023 16:26:21:
  tests:  1|5
 total_score: 10/70
 762c02c
+mi., 12 de abr. de 2023 16:32:24: 
+ hashmap.c | 14 +++++++++++++-
+ 1 file changed, 13 insertions(+), 1 deletion(-)
+ tests:  5|4
+total_score: 30/70
+c5558f0
