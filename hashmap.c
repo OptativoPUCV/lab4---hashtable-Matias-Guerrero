@@ -104,9 +104,19 @@ Pair * searchMap(HashMap * map,  char * key)
     return NULL;
 }
 
-Pair * firstMap(HashMap * map) {
+Pair * firstMap(HashMap * map)
+{
+    int posicion = 0;
 
-    return NULL;
+    while(map->buckets[posicion] == NULL)
+    {
+        posicion = (posicion + 1) % map->capacity;
+    }
+
+    map->current = posicion;
+    
+    return map->buckets[posicion];
+    
 }
 
 Pair * nextMap(HashMap * map) {
