@@ -40,3 +40,9 @@ mi., 12 de abr. de 2023 16:40:01:
  tests:  6|4
 total_score: 30/70
 1125569
+mi., 12 de abr. de 2023 16:40:27: 
+ hashmap.c | 1 +
+ 1 file changed, 1 insertion(+)
+ tests:  8|3
+total_score: 40/70
+21a2cf3
